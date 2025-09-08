@@ -65,8 +65,9 @@ Java-разработчик с фокусом на создание надежн
 ### &#128640; Мои проекты:
 Вот некоторые из моих публичных проектов:
 
-1.  **[Название проекта](https://github.com/Evgeniy-Dmitriev/repo-name)** - Описание проекта. Стек: Spring Boot, Hibernate, PostgreSQL, Docker.
-2.  **[Название проекта](https://github.com/Evgeniy-Dmitriev/repo-name)** - Описание проекта. Стек: Spring Boot, JUnit, Mockito, Maven.
+1.  **[java-explore-with-me](https://github.com/Evgeniy-Dmitriev/java-explore-with-me)** - Explore With Me - event-платформа для организации и поиска мероприятий. Полнофункциональный бэкенд на Java/Spring Boot с микросервисной архитектурой, статистикой просмотров, системой комментариев и модерацией событий. Стек: Spring Boot, Hibernate, PostgreSQL, Docker.
+2.  **[java-shareit](https://github.com/Evgeniy-Dmitriev/java-shareit)** - ShareIt - бэкенд для шеринга вещей на Java/Spring Boot. REST API с системой бронирования, управлением предметами и пользователями. Микросервисная архитектура, Docker, PostgreSQL, полное тестовое покрытие. Стек: Spring Boot, Hibernate, PostgreSQL, Docker.
+3.  **[java-filmorate](https://github.com/Evgeniy-Dmitriev/java-filmorate)** - Filmorate - социальная платформа для любителей кино. REST API на Java/Spring Boot с рекомендациями фильмов, системой отзывов, лентой событий и расширенными возможностями поиска. Стек: Spring Boot, JUnit, Mockito, Maven.
 
 ---
 
