@@ -57,20 +57,7 @@
 
 ---
 
-### &#128587; Обо мне:
-Java-разработчик с фокусом на создание надежных и эффективных бэкенд-сервисов с использованием Spring Boot. Постоянно стремлюсь к написанию чистого, поддерживаемого кода и изучению лучших практик в разработке. Имею опыт полного цикла: от проектирования API и бизнес-логики до работы с базами данных, тестирования и контейнеризации приложений.
-
----
-
-### &#128640; Мои проекты:
-Вот некоторые из моих публичных проектов:
-
-1.  **[java-explore-with-me](https://github.com/Evgeniy-Dmitriev/java-explore-with-me)** - Explore With Me - event-платформа для организации и поиска мероприятий. Полнофункциональный бэкенд на Java/Spring Boot с микросервисной архитектурой, статистикой просмотров, системой комментариев и модерацией событий. Стек: Spring Boot, Hibernate, PostgreSQL, Docker.
-2.  **[java-shareit](https://github.com/Evgeniy-Dmitriev/java-shareit)** - ShareIt - бэкенд для шеринга вещей на Java/Spring Boot. REST API с системой бронирования, управлением предметами и пользователями. Микросервисная архитектура, Docker, PostgreSQL, полное тестовое покрытие. Стек: Spring Boot, Hibernate, PostgreSQL, Docker.
-3.  **[java-filmorate](https://github.com/Evgeniy-Dmitriev/java-filmorate)** - Filmorate - социальная платформа для любителей кино. REST API на Java/Spring Boot с рекомендациями фильмов, системой отзывов, лентой событий и расширенными возможностями поиска. Стек: Spring Boot, JUnit, Mockito, Maven.
-
----
-
 ### &#128172; Как со мной связаться:
+Готов выполнить тестовое задание и пройти собеседование <br><br>
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EugeneDmitriev)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitriew85@yandex.ru)
